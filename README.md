@@ -1,7 +1,7 @@
 - 👋 OI, eu sou @srjoaovitorsouzas
-- 👀 Eu estou interessado em aprender a programar
-- 🌱 Atualmente estou aprendendo italiano
-- 💞️ Eu estou procurando entrar em trabalhos interessantes
+- 👀 Eu estou interessado em melhorar em programação 
+- 🌱 Atualmente estou estudando para o ENEM
+- 💞️ Ainda não estou procurando trabalhos na área 
 - 📫 Para chegar até mim é só mandar um gmail
 - ⚡ Fatos engraçados: isso só conto pessoalmente
 
