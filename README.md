@@ -1,7 +1,7 @@
 - 👋 OI, eu sou @srjoaovitorsouzas
 - 👀 Eu estou interessado em melhorar em programação 
-- 🌱 Atualmente estou estudando para o ENEM
-- 💞️ Ainda não estou procurando trabalhos na área 
+- 🌱 Atualmente estou focado em terminar o terceiro ano 
+- 👨🏾‍💼 Ainda não estou procurando trabalhos na área 
 - 📫 Para chegar até mim é só mandar um gmail
 - ⚡ Fatos engraçados: isso só conto pessoalmente
 
